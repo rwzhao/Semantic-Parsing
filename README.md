@@ -151,6 +151,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[thesis](http://sivareddy.in/papers/siva_phd_thesis.pdf)]  
 **Siva Reddy**, advisor: Mirella Lapata and Mark Steedman, University of Edinburgh, 2017.
 
+1. **Grammar-Based Semantic Parsing Into Graph Representations**  
+[[thesis](https://academiccommons.columbia.edu/doi/10.7916/D8JH3ZRR)]  
+**Daniel Bauer**, advisor: Columbia University, 2017.
+
 1. **Natural Language Semantics Using Probabilistic Logic**  
 [[thesis](http://www.cs.utexas.edu/users/ml/papers/beltagy.thesis16.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/beltagy.thesis16.slides.pdf)]  
 **Islam Beltagy**, advisor: Raymond J. Mooney, The University of Texas at Austin, 2016.
