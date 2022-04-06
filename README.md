@@ -351,6 +351,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://aclanthology.org/2021.acl-long.198.pdf)] [[code](https://github.com/rhythmcao/text2sql-lgesql)]  
 *Ruisheng Cao, Lu Chen, Zhi Chen, Yanbin Zhao, Su Zhu and Kai Yu.* ACL-2021.
 
+1. **Optimizing Deeper Transformers on Small Datasets**  
+[[paper](https://aclanthology.org/2021.acl-long.163.pdf)] [[code](https://github.com/BorealisAI/DT-Fixup)]  
+*Peng Xu, Dhruv Kumar, Wei Yang, Wenjie Zi, Keyi Tang, Chenyang Huang, Jackie Chi Kit Cheung, Simon J.D. Prince, Yanshuai Cao.* ACL-2021.
+
 1. **Meta-Learning to Compositionally Generalize**  
 [[paper](https://aclanthology.org/2021.acl-long.258.pdf)] [[code](https://github.com/berlino/tensor2struct-public)]  
 *Henry Conklin, Bailin Wang, Kenny Smith and Ivan Titov.* ACL-2021.
