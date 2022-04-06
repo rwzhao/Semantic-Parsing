@@ -214,6 +214,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://arxiv.org/pdf/2107.07653.pdf)]  
 *Jingfeng Yang, Aditya Gupta, Shyam Upadhyay, Luheng He, Rahul Goel, Shachi Paul.* ACL-2022.
 
+1. **S2SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers**  
+[[paper](https://arxiv.org/pdf/2203.06958.pdf)]  
+*Binyuan Hui, Ruiying Geng, Lihan Wang, Bowen Qin, Bowen Li, Jian Sun, Yongbin Li.* ACL-findings-2022.
+
 1. **TAPEX: Table Pre-training via Learning a Neural SQL Executor**  
 [[paper](https://arxiv.org/pdf/2107.07653.pdf)]  
 *Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, Jian-Guang Lou.* ICLR-2022.
