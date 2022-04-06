@@ -209,6 +209,15 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 ## Papers about Semantic Parsing
 (ordered by year)
+### 2022
+1. **TABLEFORMER: Robust Transformer Modeling for Table-Text Encoding**  
+[[paper](https://arxiv.org/pdf/2107.07653.pdf)]  
+*Jingfeng Yang, Aditya Gupta, Shyam Upadhyay, Luheng He, Rahul Goel, Shachi Paul.* ACL-2022.
+
+1. **TAPEX: Table Pre-training via Learning a Neural SQL Executor**  
+[[paper](https://arxiv.org/pdf/2107.07653.pdf)]  
+*Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, Jian-Guang Lou.* ICLR-2022.
+
 ### 2021
 1. **GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing**  
 [[paper](https://openreview.net/pdf?id=kyaIeYj4zZ)]  
