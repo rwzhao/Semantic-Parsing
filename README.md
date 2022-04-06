@@ -267,6 +267,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://aclanthology.org/2021.findings-emnlp.54.pdf)] [[code](https://github.com/lukovnikov/parseq/tree/emnlpcr/)]  
 *Denis Lukovnikov, Sina Daubener, Asja Fischer.* EMNLP-finding-2021.
 
+1. **Natural SQL: Making SQL Easier to Infer from Natural Language Specifications**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.174.pdf)] [[code](https://github.com/ygan/NatSQL)]  
+*Yujian Gan, Xinyun Chen, Jinxia Xie, Matthew Purver, John R. Woodward, John Drake, Qiaofu Zhang.* EMNLP-finding-2021.
+
 1. **Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing**  
 [[paper](https://aclanthology.org/2021.findings-emnlp.161.pdf)]  
 *Akshat Shrivastava, Pierce Chuang, Arun Babu, Shrey Desai, Abhinav Arora, Alexander Zotov, Ahmed Aly.* EMNLP-finding-2021.
