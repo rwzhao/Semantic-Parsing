@@ -210,6 +210,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2021
+1. **GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing**  
+[[paper](https://openreview.net/pdf?id=kyaIeYj4zZ)]  
+*Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong.* ICLR-2021.
+
 1. **Memory-Based Semantic Parsing**  
 [[paper](https://aclanthology.org/2021.tacl-1.71.pdf)]  
 *Parag Jain, Mirella Lapata.* TACL-2021.
