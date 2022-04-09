@@ -211,7 +211,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 (ordered by year)
 ### 2022
 1. **TABLEFORMER: Robust Transformer Modeling for Table-Text Encoding**  
-[[paper](https://arxiv.org/pdf/2107.07653.pdf)]  
+[[paper](https://arxiv.org/pdf/2203.00274.pdf)]  
 *Jingfeng Yang, Aditya Gupta, Shyam Upadhyay, Luheng He, Rahul Goel, Shachi Paul.* ACL-2022.
 
 1. **S2SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers**  
