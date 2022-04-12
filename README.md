@@ -210,8 +210,8 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
-1. **Semantic Parsing in Task-Oriented Dialog with Recursive Insertion-based Encoder**
-[[paper](https://arxiv.org/pdf/2109.04500.pdf)]
+1. **Semantic Parsing in Task-Oriented Dialog with Recursive Insertion-based Encoder**  
+[[paper](https://arxiv.org/pdf/2109.04500.pdf)]  
 *Elman Mansimov and Yi Zhang.* AAAI-2022.
 
 1. **TABLEFORMER: Robust Transformer Modeling for Table-Text Encoding**  
