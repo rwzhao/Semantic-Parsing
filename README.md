@@ -331,6 +331,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://aclanthology.org/2021.acl-long.74.pdf)] [[code](https://github.com/jonathanherzig/span-based-sp)]  
 *Jonathan Herzig, Jonathan Berant.* ACL-2021.
 
+1. **Grounded Graph Decoding Improves Compositional Generalization in Question Answering**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.157.pdf)] [[code](https://github.com/gaiyu0/cfq)]  
+*Yu Gai∗ and Paras Jain∗ and Wendi Zhang and Joseph Gonzalez and Dawn Song and Ion Stoica.* ACL-2021.
+
 1. **Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?**  
 [[paper](https://aclanthology.org/2021.acl-long.75.pdf)] [[code](https://github.com/google-research/language/tree/master/language/nqg)]  
 *Peter Shaw, Ming-Wei Chang, Panupong Pasupat, Kristina Toutanova.* ACL-2021.
