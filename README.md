@@ -283,6 +283,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://aclanthology.org/2021.findings-emnlp.161.pdf)]  
 *Akshat Shrivastava, Pierce Chuang, Arun Babu, Shrey Desai, Abhinav Arora, Alexander Zotov, Ahmed Aly.* EMNLP-finding-2021.
 
+1. **Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog**  
+[[paper](https://arxiv.org/pdf/2104.04923.pdf)]  
+*Arun Babu Akshat Shrivastava Armen Aghajanyan Ahmed Aly Angela Fan Marjan Ghazvininejad.* NAACL-2021.
+
 1. **Few-Shot Novel Concept Learning for Semantic Parsing**  
 [[paper](https://aclanthology.org/2021.findings-emnlp.177.pdf)]  
 *Soham Dan, Osbert Bastani, Dan Roth.* EMNLP-finding-2021.
