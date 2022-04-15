@@ -214,6 +214,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://arxiv.org/pdf/2109.04500.pdf)]  
 *Elman Mansimov and Yi Zhang.* AAAI-2022.
 
+1. **Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction**  
+[[paper](https://arxiv.org/pdf/2110.08345.pdf)]  
+*Lingbo Mo, Ashley Lewis, Huan Sun, Michael White.* ACL-2022.
+
 1. **TABLEFORMER: Robust Transformer Modeling for Table-Text Encoding**  
 [[paper](https://arxiv.org/pdf/2203.00274.pdf)]  
 *Jingfeng Yang, Aditya Gupta, Shyam Upadhyay, Luheng He, Rahul Goel, Shachi Paul.* ACL-2022.
