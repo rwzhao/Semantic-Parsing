@@ -795,6 +795,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/C18-1076)]  
 *Bo Chen, Bo An, Le Sun, Xianpei Han.* COLING-2018.
 
+1. **Learning to Map Context-Dependent Sentences to Executable Formal Queries**  
+[[paper](https://aclanthology.org/N18-1203.pdf)]  
+*Alane Suhr, Srinivasan Iyer, Yoav Artzi.* NAACL-2018.
+
 1. **NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System**  
 [[paper](https://www.aclweb.org/anthology/L18-1491)] [[code](https://github.com/TellinaTool/nl2bash)]  
 *Xi Victoria Lin, Chenglong Wang, Luke Zettlemoyer, Michael D. Ernst.* LREC-2018.
