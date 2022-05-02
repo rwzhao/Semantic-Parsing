@@ -444,6 +444,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 *Shuo Huang, Zhuang Li, Lizhen Qu, Lei Pan.* EACL-2021.
 
 ### 2020
+1. **Don't Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing**  
+[[paper](https://arxiv.org/pdf/2001.11458.pdf)]
+*Subendhu Rongali, Luca Soldaini, Emilio Monti, Wael Hamza.* WWW-2020.
+
 1. **Context Dependent Semantic Parsing: A Survey**  
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.226.pdf)] [[resource](https://github.com/zhuang-li/Contextual-Semantic-Parsing-Paper-List)]  
 *Zhuang Li, Lizhen Qu, Gholamreza Haffari.* COLING-2020.
