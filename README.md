@@ -532,6 +532,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.564.pdf)] [[code](https://github.com/WING-NUS/slsql)]  
 *Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan, Tat-Seng Chua.* EMNLP-2020.
 
+1. **RECPARSER: A Recursive Semantic Parsing Framework for Text-to-SQL Task**  
+[[paper](https://www.ijcai.org/proceedings/2020/0504.pdf)] 
+*Yu Zeng, Yan Gao, Jiaqi Guo, Bei Chen, Qian Liu, Jian-Guang Lou, Fei Teng, Dongmei Zhang.* IJCAI-2020.
+
 1. **CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant**  
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.427.pdf)] [[code](https://github.com/facebookresearch/craftassist/tree/master/acl2020_submission)]  
 *Kavya Srinet, Yacine Jernite, Jonathan Gray, arthur szlam.* ACL-2020.
