@@ -604,6 +604,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.ijcai.org/Proceedings/2020/0515.pdf)] [[code](https://github.com/zechagl/DAMP)]  
 *Zechang Li , Yuxuan Lai , Yansong Feng and Dongyan Zhao.* IJCAI-2020.
 
+1. **How Far are We from Effective Context Modeling? An Exploratory Study on Semantic Parsing in Context**  
+[[paper](https://www.ijcai.org/proceedings/2020/0495.pdf)]
+*Qian Liu, Bei Chen, Jiaqi Guo, Jian-Guang Lou, Bin Zhou, Dongmei Zhang.* IJCAI-2020.
+
 ### 2019
 1. **Look-up and Adapt: A One-shot Semantic Parser**  
 [[paper](https://www.aclweb.org/anthology/D19-1104.pdf)] [[code](https://github.com/zhichul/lookup-and-adapt-parser-data)]  
