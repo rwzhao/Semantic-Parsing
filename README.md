@@ -633,6 +633,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/D19-1104.pdf)] [[code](https://github.com/zhichul/lookup-and-adapt-parser-data)]  
 *Zhichu Lu, Forough Arabshahi, Igor Labutov, Tom Mitchell.* EMNLP-2019.
 
+1. **Grammar-based Neural Text-to-SQL Generation**  
+[[paper](https://arxiv.org/pdf/1905.13326.pdf)]
+*Kevin Lin, Ben Bogin, Mark Neumann, Jonathan Berant, Matt Gardner.* Arxiv-2019.
+
 1. **Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog**  
 [[paper](https://www.aclweb.org/anthology/D19-1163.pdf)] [[code](https://github.com/ppasupat/factored-span-parsing)]  
 *Panupong Pasupat, Sonal Gupta, Karishma Mandyam, Rushin Shah, Mike Lewis, Luke Zettlemoyer.* EMNLP-2019.
