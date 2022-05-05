@@ -243,6 +243,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://arxiv.org/pdf/2111.00653.pdf)]  
 *Ruichu Cai, Jinjie Yuan, Boyan Xu∗, Zhifeng Hao.* NeurIPS-2021.
 
+1. **PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models**  
+[[paper](https://arxiv.org/pdf/2109.05093.pdf)]  
+*Torsten Scholak, Nathan Schucher, Dzmitry Bahdanau.* EMNLP-2021.
+
 1. **Memory-Based Semantic Parsing**  
 [[paper](https://aclanthology.org/2021.tacl-1.71.pdf)]  
 *Parag Jain, Mirella Lapata.* TACL-2021.
