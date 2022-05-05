@@ -239,6 +239,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://openreview.net/pdf?id=kyaIeYj4zZ)]  
 *Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong.* ICLR-2021.
 
+1. **SADGA: Structure-Aware Dual Graph Aggregation Network for Text-to-SQL**  
+[[paper](https://arxiv.org/pdf/2111.00653.pdf)]  
+*Ruichu Cai, Jinjie Yuan, Boyan Xu∗, Zhifeng Hao.* NeurIPS-2021.
+
 1. **Memory-Based Semantic Parsing**  
 [[paper](https://aclanthology.org/2021.tacl-1.71.pdf)]  
 *Parag Jain, Mirella Lapata.* TACL-2021.
