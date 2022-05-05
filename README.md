@@ -210,6 +210,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Weakly Supervised Text-to-SQL Parsing through Question Decomposition**  
+[[paper](https://arxiv.org/pdf/2112.06311.pdf)]  
+*Tomer Wolfson, Daniel Deutch, Jonathan Berant.* Findings-NAACL-2022.
+
 1. **Training Naturalized Semantic Parsers with Very Little Data**  
 [[paper](https://arxiv.org/pdf/2204.14243.pdf)]  
 *Subendhu Rongali, Konstantine Arkoudas, Melanie Rubino, Wael Hamza.* IJCAI-2022.
