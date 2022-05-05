@@ -460,6 +460,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://arxiv.org/pdf/2001.11458.pdf)]
 *Subendhu Rongali, Luca Soldaini, Emilio Monti, Wael Hamza.* WWW-2020.
 
+1. **Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing**  
+[[paper](https://arxiv.org/pdf/2012.12627.pdf)]
+*Xi Victoria Lin, Richard Socher, Caiming Xiong.* Findings-EMNLP-2020.
+
 1. **Context Dependent Semantic Parsing: A Survey**  
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.226.pdf)] [[resource](https://github.com/zhuang-li/Contextual-Semantic-Parsing-Paper-List)]  
 *Zhuang Li, Lizhen Qu, Gholamreza Haffari.* COLING-2020.
