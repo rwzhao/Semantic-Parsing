@@ -51,6 +51,17 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo at 
 
 
 ## Datasets for Semantic Parsing
+1. **NLmaps V1 & V2**  
+[[website](https://www.cl.uni-heidelberg.de/statnlpgroup/nlmaps/)]  
+cite: Carolin Lawrence and Stefan Riezler. 2018. Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback. In ACL.
+
+1. **SQUALL**  
+[[website](https://www.github.com/tzshi/squall)]  
+cite: Tianze Shi. 2020. On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries. In EMNLP.
+
+1. **MultiAtis++**  
+[[context-dependent](https://catalog.ldc.upenn.edu/LDC2021T04, https://github.com/amazon-research/multiatis)]  
+cite: Xu, W., Haider, B. and Mansour, S., 2020. End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. arXiv preprint arXiv:2004.14353 (https://arxiv.org/abs/2004.14353)
 
 1. **Geoquery**  
 [[website](http://www.cs.utexas.edu/~ml/geo.html)] [[execution](https://cs.stanford.edu/~pliang/software/dcs-1.0.zip)]  
@@ -64,10 +75,6 @@ cite: Lappoon Tang and Raymond Mooney. 2001. Using multiple clause constructors 
 [[context-independent](https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03b6f4f)] [[context-dependent](https://github.com/clic-lab/atis)]  
 cite: Charles Hemphill, John Godfrey, and George Doddington. 1990. The ATIS spoken language pilot corpus. In DARPA Speech & Natural Language Workshop.  
 Deborah Dahl, Madeleine Bates, Michael Brown, William Fisher, Kate Hunicke-Smith, David Pallett, Christine Pao, Alexander Rudnicky, and Elizabeth Shriberg. 1994. Expanding the scope of the ATIS task: The ATIS-3 corpus. In HLT.
-
-1. **MultiAtis++**  
-[[context-dependent](https://catalog.ldc.upenn.edu/LDC2021T04, https://github.com/amazon-research/multiatis)]  
-cite: Xu, W., Haider, B. and Mansour, S., 2020. End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. arXiv preprint arXiv:2004.14353 (https://arxiv.org/abs/2004.14353)
 
 1. **Webquestions**  
 [[website](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a)]  
@@ -125,9 +132,6 @@ cite: Lake, B. M. and Baroni, M. 2018. Generalization without systematicity: On 
 [[website](https://ppasupat.github.io/WikiTableQuestions/)]  
 cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on Semi-Structured Tables. In ACL.
 
-1. **SQUALL**  
-[[website](https://www.github.com/tzshi/squall)]  
-cite: Tianze Shi. 2020. On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries. In EMNLP.
 
 ## PhD theses about Semantic Parsing
 (ordered by year)
