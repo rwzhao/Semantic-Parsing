@@ -65,6 +65,10 @@ cite: Lappoon Tang and Raymond Mooney. 2001. Using multiple clause constructors 
 cite: Charles Hemphill, John Godfrey, and George Doddington. 1990. The ATIS spoken language pilot corpus. In DARPA Speech & Natural Language Workshop.  
 Deborah Dahl, Madeleine Bates, Michael Brown, William Fisher, Kate Hunicke-Smith, David Pallett, Christine Pao, Alexander Rudnicky, and Elizabeth Shriberg. 1994. Expanding the scope of the ATIS task: The ATIS-3 corpus. In HLT.
 
+1. **MultiAtis++**  
+[[context-dependent](https://catalog.ldc.upenn.edu/LDC2021T04, https://github.com/amazon-research/multiatis)]  
+cite: Xu, W., Haider, B. and Mansour, S., 2020. End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. arXiv preprint arXiv:2004.14353 (https://arxiv.org/abs/2004.14353)
+
 1. **Webquestions**  
 [[website](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a)]  
 cite: Jonathan Berant, Andrew Chou, Roy Frostig, Percy Liang. 2013. Semantic parsing on Freebase from question-answer pairs. In EMNLP.
