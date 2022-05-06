@@ -214,6 +214,10 @@ cite: Tianze Shi. 2020. On the Potential of Lexico-logical Alignments for Semant
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Zero-Shot Cross-lingual Semantic Parsing**  
+[[paper](https://arxiv.org/pdf/2104.07554.pdf)]  
+*Tom Sherborne, Mirella Lapata.* ACL-2022.
+
 1. **Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion**  
 [[paper](http://www.chenz.umiacs.io/files/tabulardata.pdf)]  
 *Chen Zhao.* ACL-2022.
