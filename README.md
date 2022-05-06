@@ -214,6 +214,10 @@ cite: Tianze Shi. 2020. On the Potential of Lexico-logical Alignments for Semant
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion**  
+[[paper](http://www.chenz.umiacs.io/files/tabulardata.pdf)]  
+*Chen Zhao.* ACL-2022.
+
 1. **Weakly Supervised Text-to-SQL Parsing through Question Decomposition**  
 [[paper](https://arxiv.org/pdf/2112.06311.pdf)]  
 *Tomer Wolfson, Daniel Deutch, Jonathan Berant.* Findings-NAACL-2022.
