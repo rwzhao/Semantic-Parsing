@@ -121,6 +121,10 @@ cite: Lake, B. M. and Baroni, M. 2018. Generalization without systematicity: On 
 [[website](https://ppasupat.github.io/WikiTableQuestions/)]  
 cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on Semi-Structured Tables. In ACL.
 
+1. **SQUALL**  
+[[website](https://www.github.com/tzshi/squall)]  
+cite: Tianze Shi. 2020. On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries. In EMNLP.
+
 ## PhD theses about Semantic Parsing
 (ordered by year)
 1. **Learning to Map Natural Language to Executable Programs over Databases**  
