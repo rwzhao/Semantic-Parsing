@@ -225,6 +225,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Dialogue Meaning Representation for Task-Oriented Dialogue Systems**  
+[[paper](https://arxiv.org/pdf/2204.10989.pdf)][[dataset](https://github.com/amazon-research/dialogue-meaning-representation)]
+*Xiangkun Hu, Junqi Dai, Hang Yan, Yi Zhang, Qipeng Guo, Xipeng Qiu, Zheng Zhang.* Arxiv-2022.
+
 1. **Compositional Task-Oriented Parsing as Abstractive Question Answering**  
 [[paper](https://arxiv.org/pdf/2205.02068.pdf)]  
 *Tom Sherborne, Mirella Lapata.* NAACL-2022.
