@@ -225,6 +225,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Compositional Task-Oriented Parsing as Abstractive Question Answering**  
+[[paper](https://arxiv.org/pdf/2205.02068.pdf)]  
+*Tom Sherborne, Mirella Lapata.* NAACL-2022.
+
 1. **Zero-Shot Cross-lingual Semantic Parsing**  
 [[paper](https://arxiv.org/pdf/2104.07554.pdf)]  
 *Tom Sherborne, Mirella Lapata.* ACL-2022.
