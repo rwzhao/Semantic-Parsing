@@ -492,7 +492,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 1. **El Volumen Louder Por Favor: Code-switching in Task-oriented Semantic Parsing**  
 [[paper](https://www.aclweb.org/anthology/2021.eacl-main.87.pdf)] [[dataset](https://fb.me/cstop_data)]  
-*Haoran Li Abhinav Arora Shuohui Chen Anchit Gupta Sonal Gupta Yashar Mehdad.* EACL-2021.
+*Arash Einolghozati Abhinav Arora Lorena Sainz-Maza Lecanda Anuj Kumar Sonal Gupta.* EACL-2021.
 
 1. **On Robustness of Neural Semantic Parsers**  
 [[paper](https://www.aclweb.org/anthology/2021.eacl-main.292.pdf)] [[code](https://github.com/shuo956/On-Robustness-of-nerual-smentic-parsing)]  
