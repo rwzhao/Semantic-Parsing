@@ -486,9 +486,13 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/2021.eacl-main.109.pdf)] [[code](https://github.com/zhuang-li/few-shot-semantic-parsing)]  
 *Zhuang Li, Lizhen Qu, Shuo Huang, Gholamreza Haffari.* EACL-2021.
 
+1. **MTOP: A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark**  
+[[paper](https://www.aclweb.org/anthology/2021.eacl-main.257.pdf)] [[dataset](https://fb.me/mtop_dataset)]  
+*Zhuang Li, Lizhen Qu, Shuo Huang, Gholamreza Haffari.* EACL-2021.
+
 1. **On Robustness of Neural Semantic Parsers**  
 [[paper](https://www.aclweb.org/anthology/2021.eacl-main.292.pdf)] [[code](https://github.com/shuo956/On-Robustness-of-nerual-smentic-parsing)]  
-*Shuo Huang, Zhuang Li, Lizhen Qu, Lei Pan.* EACL-2021.
+*Haoran Li Abhinav Arora Shuohui Chen Anchit Gupta Sonal Gupta Yashar Mehdad.* EACL-2021.
 
 ### 2020
 1. **Don't Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing**  
