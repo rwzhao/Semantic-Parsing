@@ -1,10 +1,19 @@
-## Task-Oriented Semantic Parsing
+## Semantic Parsing for Task-Oriented Dialogue
 
 1. **DMR-FastFood**  
 [[paper](https://arxiv.org/pdf/2204.10989.pdf)] [[homepage](https://github.com/amazon-research/dialogue-meaning-representation)]
 
+1. **TOP**  
+[[paper](https://arxiv.org/pdf/1810.07942.pdf)] [[homepage](http://fb.me/semanticparsingdialog)]
 
-## KBQA with Logical Forms
+1. **TOPv2**  
+[[paper](https://aclanthology.org/2020.emnlp-main.413.pdf)] [[homepage](https://fb.me/TOPv2Dataset)]
+
+1. **MTOP**  
+[[paper](https://aclanthology.org/2021.eacl-main.257.pdf)] [[homepage]( https://fb.me/mtop_dataset)]
+
+
+## Semantic Parsing for KBQA
 
 1. **GrailQA**  
 [[paper](https://arxiv.org/pdf/2011.07743.pdf)][[homepage](https://dki-lab.github.io/GrailQA/)]  
