@@ -3,6 +3,9 @@
 1. **DMR-FastFood**  
 [[paper](https://arxiv.org/pdf/2204.10989.pdf)] [[homepage](https://github.com/amazon-research/dialogue-meaning-representation)]
 
+1. **TreeDST**  
+[[paper](https://arxiv.org/pdf/2010.12770.pdf)] [[homepage](https://github.com/apple/ml-tree-dst)]
+
 1. **TOP**  
 [[paper](https://arxiv.org/pdf/1810.07942.pdf)] [[homepage](http://fb.me/semanticparsingdialog)]
 
