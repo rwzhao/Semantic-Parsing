@@ -225,6 +225,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Program Transfer for Answering Complex Questions over Knowledge Bases**  
+[[paper](https://arxiv.org/pdf/2110.05743.pdf)]  
+*Shulin Cao et al.* ACL-2022.
+
 1. **Dialogue Meaning Representation for Task-Oriented Dialogue Systems**  
 [[paper](https://arxiv.org/pdf/2204.10989.pdf)][[dataset](https://github.com/amazon-research/dialogue-meaning-representation)]  
 *Xiangkun Hu, Junqi Dai, Hang Yan, Yi Zhang, Qipeng Guo, Xipeng Qiu, Zheng Zhang.* Arxiv-2022.
