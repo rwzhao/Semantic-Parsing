@@ -31,3 +31,11 @@
 
 1. **ComplexWebQuestions**  
 [[paper](https://aclanthology.org/N18-1059.pdf)] [[homepage](https://allenai.org/data/complexwebquestions)]
+
+
+## Semantic Parsing with Human Feedback
+
+1. **Semantic Parsing with Language Assistance from Humans (SPLASH)**  
+[[paper](https://aclanthology.org/2020.acl-main.187.pdf)] [[homepage](https://github.com/MSR-LIT/Splash)]
+
+
