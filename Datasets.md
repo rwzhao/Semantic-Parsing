@@ -1,5 +1,8 @@
 ## Task-Oriented Semantic Parsing
 
+1. **DMR-FastFood**  
+[[paper](https://arxiv.org/pdf/2204.10989.pdf)] [[homepage](https://github.com/amazon-research/dialogue-meaning-representation)]
+
 
 ## KBQA with Logical Forms
 
@@ -10,8 +13,6 @@
 1. **KQA Pro**  
 [[paper](https://arxiv.org/pdf/2007.03875.pdf)] [[homepage](http://thukeg.gitee.io/kqa-pro/)]
 
-1. **KQA Pro**  
-[[paper](https://arxiv.org/pdf/2007.03875.pdf)] [[homepage](http://thukeg.gitee.io/kqa-pro/)]
 
 1. **WebQuestionsSP**  
 [[paper](https://aclanthology.org/P16-2033.pdf)] [[homepage](https://www.microsoft.com/en-us/download/details.aspx?id=52763)]
