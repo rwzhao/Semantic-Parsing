@@ -225,6 +225,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing**  
+[[paper](https://arxiv.org/pdf/2202.00901.pdf)]  
+*Akshat Shrivastava, Shrey Desai, Anchit Gupta, Ali Elkahky, Aleksandr Livshits, Alexander Zotov, Ahmed Aly.* Arxiv-2022.
+
 1. **Program Transfer for Answering Complex Questions over Knowledge Bases**  
 [[paper](https://arxiv.org/pdf/2110.05743.pdf)]  
 *Shulin Cao et al.* ACL-2022.
