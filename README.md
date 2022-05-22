@@ -278,6 +278,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 *Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, Jian-Guang Lou.* ICLR-2022.
 
 ### 2021
+1. **Low-Resource Task-Oriented Semantic Parsing via Intrinsic Modeling**  
+[[paper](https://arxiv.org/pdf/2104.07224.pdf)]  
+*Shrey Desai, Akshat Shrivastava, Alexander Zotov, Ahmed Aly.* Arxiv-2021.
+
 1. **GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing**  
 [[paper](https://openreview.net/pdf?id=kyaIeYj4zZ)]  
 *Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong.* ICLR-2021.
