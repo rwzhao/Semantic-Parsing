@@ -225,6 +225,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Improving Top-K Decoding for Non-Autoregressive Semantic Parsing via Intent Conditioning**  
+[[paper](https://arxiv.org/pdf/2204.06748.pdf)]  
+*Geunseob Oh, Rahul Goel, Chris Hidey, Shachi Paul, Aditya Gupta, Pararth Shah, Rushin Shah.* Arxiv-2022.
+
 1. **Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing**  
 [[paper](https://arxiv.org/pdf/2202.00901.pdf)]  
 *Akshat Shrivastava, Shrey Desai, Anchit Gupta, Ali Elkahky, Aleksandr Livshits, Alexander Zotov, Ahmed Aly.* Arxiv-2022.
