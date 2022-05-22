@@ -278,6 +278,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 *Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, Jian-Guang Lou.* ICLR-2022.
 
 ### 2021
+1. **Assessing Data Efficiency in Task-Oriented Semantic Parsing**  
+[[paper](https://arxiv.org/pdf/2107.04736.pdf)]  
+*Shrey Desai, Akshat Shrivastava, Justin Rill, Brian Moran, Safiyyah Saleem, Alexander Zotov, Ahmed Aly.* Arxiv-2021.
+
 1. **Low-Resource Task-Oriented Semantic Parsing via Intrinsic Modeling**  
 [[paper](https://arxiv.org/pdf/2104.07224.pdf)]  
 *Shrey Desai, Akshat Shrivastava, Alexander Zotov, Ahmed Aly.* Arxiv-2021.
