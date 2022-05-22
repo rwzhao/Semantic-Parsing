@@ -15,7 +15,10 @@ https://metatext.io/datasets/
 [[paper](https://aclanthology.org/2020.emnlp-main.413.pdf)] [[homepage](https://fb.me/TOPv2Dataset)]
 
 1. **MTOP**  
-[[paper](https://aclanthology.org/2021.eacl-main.257.pdf)] [[homepage]( https://fb.me/mtop_dataset)]
+[[paper](https://aclanthology.org/2021.eacl-main.257.pdf)] [[homepage](https://fb.me/mtop_dataset)]
+
+1. **PIZZA**  
+[[homepage](https://github.com/amazon-research/pizza-semantic-parsing-dataset)]
 
 
 ## Semantic Parsing for KBQA
