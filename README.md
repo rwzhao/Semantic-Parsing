@@ -788,6 +788,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/N19-1360)]  
 *Charles Chen and Razvan Bunescu.* NAACL-2019.
 
+1. **Weakly Supervised Multi-task Learning for Semantic Parsing**  
+[[paper](https://www.ijcai.org/Proceedings/2019/0468.pdf)]  
+*Bo Shao et al.* IJCAI-2019.
+
 1. **Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions**  
 [[paper](https://www.aclweb.org/anthology/N19-1360)][[code](https://github.com/ryanzhumich/editsql)]
 *Rui Zhang, Tao Yu, He Yang Er, Sungrok Shim, Eric Xue, Xi Victoria Lin, Tianze Shi, Caiming Xiong, Richard Socher, Dragomir Radev* EMNLP-2019.
