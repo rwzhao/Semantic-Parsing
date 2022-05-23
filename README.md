@@ -225,6 +225,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Unfreeze with Care: Space-Efficient Fine-Tuning of Semantic Parsing Models**  
+[[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3511942)]  
+*Weiqi Sun et al.* WWW-2022.
+
 1. **Improving Top-K Decoding for Non-Autoregressive Semantic Parsing via Intent Conditioning**  
 [[paper](https://arxiv.org/pdf/2204.06748.pdf)]  
 *Geunseob Oh, Rahul Goel, Chris Hidey, Shachi Paul, Aditya Gupta, Pararth Shah, Rushin Shah.* Arxiv-2022.
