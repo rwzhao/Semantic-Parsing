@@ -225,6 +225,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2022
+1. **Learning to Generate Programs for Table Fact Verification via Structure-Aware Semantic Parsing**  
+[[paper](https://aclanthology.org/2022.acl-long.525.pdf)]  
+*Suixin Ou, Yongmei Liu.* ACL-2022.
+
 1. **Unfreeze with Care: Space-Efficient Fine-Tuning of Semantic Parsing Models**  
 [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3511942)]  
 *Weiqi Sun et al.* WWW-2022.
