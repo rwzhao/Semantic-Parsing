@@ -37,6 +37,9 @@ https://metatext.io/datasets/
 1. **ComplexWebQuestions**  
 [[paper](https://aclanthology.org/N18-1059.pdf)] [[homepage](https://allenai.org/data/complexwebquestions)]
 
+1. **WikiTableQuestions**  
+[[paper](https://arxiv.org/pdf/1508.00305.pdf)] [[homepage](https://ppasupat.github.io/WikiTableQuestions/)]
+
 
 ## Semantic Parsing with Human Feedback
 
